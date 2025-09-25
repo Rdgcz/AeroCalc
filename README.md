@@ -1,5 +1,7 @@
 # ✈️ AeroCalc - Flight Planning Calculator
 
+https://rdgcz.github.io/AeroCalc/
+
 Professional flight planning calculator for aviation enthusiasts.
 
 ## Features

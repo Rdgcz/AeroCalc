@@ -1,0 +1,40 @@
+{
+  "aircrafts": [
+    {
+      "id": "c172",
+      "name": "Cessna 172 Skyhawk",
+      "cruiseSpeed": 110,
+      "fuelConsumption": 35,
+      "fuelCapacity": 212,
+      "category": "single-engine",
+      "image": "✈️"
+    },
+    {
+      "id": "pa28",
+      "name": "Piper PA-28 Cherokee",
+      "cruiseSpeed": 120,
+      "fuelConsumption": 38,
+      "fuelCapacity": 240,
+      "category": "single-engine", 
+      "image": "🛩️"
+    },
+    {
+      "id": "sr22",
+      "name": "Cirrus SR22",
+      "cruiseSpeed": 185,
+      "fuelConsumption": 75,
+      "fuelCapacity": 318,
+      "category": "single-engine",
+      "image": "✈️"
+    },
+    {
+      "id": "a320", 
+      "name": "Airbus A320",
+      "cruiseSpeed": 447,
+      "fuelConsumption": 2500,
+      "fuelCapacity": 23800,
+      "category": "airliner",
+      "image": "🛫"
+    }
+  ]
+}
